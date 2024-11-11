@@ -1,5 +1,5 @@
 import copy
-anime = []
+anime = ['teste']
 animes2 = {}
 
 #Aumentando o texxto 
@@ -17,7 +17,13 @@ produtos = [
     Produto("Mochila", 30.00)
 ]
 
+print(f'oi {anime}')
+
 # Fazendo shallow copies para criar diferentes visualizações dos mesmos produtos
+
+### 
+
+###
 produtos_ordenados_por_preco = copy.copy(produtos)
 produtos_ordenados_por_nome = copy.copy(produtos)
 
