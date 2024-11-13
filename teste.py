@@ -8,3 +8,6 @@ numOfGuests = int(input())
 if numOfGuests:   
   print('Be sure to have enough room for all your guests.')
 print('Done with this for today')
+
+name = 'Lucas'
+Novoteste = "testeg"
