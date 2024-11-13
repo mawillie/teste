@@ -1,8 +1,6 @@
 import copy
 anime = ['teste']
 animes2 = {}
-
-#Aumentando o texxto 
 #Aumentando um texto 2
 # Criando uma classe Produto
 class Produto:
