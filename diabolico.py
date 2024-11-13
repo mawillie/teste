@@ -3,7 +3,7 @@ anime = []
 animes2 = {}
 
 #Aumentando o texxto 
-
+#Aumentando um texto 2
 # Criando uma classe Produto
 class Produto:
     def __init__(self, nome, preco):
