@@ -8,3 +8,5 @@ numOfGuests = int(input())
 if numOfGuests:   
   print('Be sure to have enough room for all your guests.')
 print('Done with this for today')
+
+#Alteração 1
